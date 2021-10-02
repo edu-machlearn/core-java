@@ -6,5 +6,4 @@ public class ArithmaticTest {
 		int b = 2;
 		System.out.println("Addition = " + (a + b));
 	}
-
 }

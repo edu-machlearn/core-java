@@ -11,7 +11,7 @@ public class DataTypeVariableTest {
         System.out.println(name);
         System.out.println(roll);
         System.out.println(b);
-		System.out.println();
+		System.out.println(b);
 	}
 
 }

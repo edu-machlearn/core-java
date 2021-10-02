@@ -1,10 +1,5 @@
 <html>
   <head>
-  <style>
-body {
-  color: green;
-}
-</style>
   </head>
   <body>
 <h2>Core Java Sylabus<h2>

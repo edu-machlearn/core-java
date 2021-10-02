@@ -1,4 +1,5 @@
 <b>Core Java Sylabus</b>
+<hr>
 
 
 Java Fundamentals</br>

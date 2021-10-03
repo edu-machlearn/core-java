@@ -12,6 +12,6 @@ public class DataTypeVariableTest {
 		System.out.println(b);
 		System.out.println(salaryOfEmployee);
 		System.out.println(a);
+		System.out.println("Name :"+name);
 	}
-
 }

@@ -16,11 +16,7 @@ public class EscapeSequenceTest {
 		System.out.println("----------");
 		System.out.println("Biswaranjan Mohapatra \nAge : 35 \nAddress : New Delhi");
 		System.out.println("Name \tAddress \tAge");
-		
 		System.out.println("\"Hello!\" How are you?");
-		System.out.println("Ram\'s Dog");
-		
-		
+		System.out.println("Ram\'s Dog");	
 	}
-
 }

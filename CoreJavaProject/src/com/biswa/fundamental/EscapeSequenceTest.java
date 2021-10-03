@@ -9,7 +9,6 @@ EscapeSequence - Special Character used in Java
 package com.biswa.fundamental;
 
 public class EscapeSequenceTest {
-
 	public static void main(String[] args) {
 		System.out.println("Biswaranjan Mohapatra");
 		System.out.println("Age : 35");

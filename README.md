@@ -1,4 +1,4 @@
-# Core Java Sylabus
+# Core Java(Beginner) Sylabus
 
 > ## Java Fundamentals 
     1. Introduction to java, Installation Procedure of Java

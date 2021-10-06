@@ -41,3 +41,31 @@
     2. throw and throws
     3. Creating User defined Exception
     4. Exception Handling with Inheritance
+> ## String in Java
+    1. String in Java-Defining a String, String Class Constructor
+    2. String method
+        * charAt(int index)
+        * Int size()
+        * int compareTo(String anotherString).
+        * int compareToIgnoreCase(String str)
+        * String	concat(String str)
+        * boolean equals(String)
+        * boolean equalsIgnoreCase(String)
+        * boolean endsWith(String suffix)
+        * int indexOf(int ch)
+        * int indexOf(int ch, int fromIndex)
+        * int indexOf(String str)
+        * int indexOf(String str, int fromIndex)
+        * boolean isEmpty()
+        * String	replace(char oldChar, char newChar)
+        * String	replaceAll(String regex, String replacement)
+        * String	replaceFirst(String regex, String replacement)
+        * String[]	 split(String regex)
+        * String[]	 split(String regex, int limit)
+        * String	substring(int beginIndex)
+        * String	substring(int beginIndex, int endIndex)
+        * char[]	toCharArray()
+        * String	toLowerCase()
+        * String	toString()
+        * String	toUpperCase()
+        * String	trim()

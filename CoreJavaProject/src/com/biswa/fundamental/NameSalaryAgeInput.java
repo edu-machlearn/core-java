@@ -12,9 +12,9 @@ public class NameSalaryAgeInput {
 		int age = sc.nextInt();
 		System.out.print("Enter Salary : ");
 		double salary = sc.nextDouble();
-		//System.out.println("NAME \t AGE \t Salary");
-		//System.out.println("-----------------------");
-		//System.out.println(name + "\t" + age + "\t" + salary);
+		System.out.println("NAME \t AGE \t Salary");
+		System.out.println("-----------------------");
+		System.out.println(name + "\t" + age + "\t" + salary);
 		System.out.println("Name - "+name+"  Age - "+age+"   Salary -"+salary);
 		
 

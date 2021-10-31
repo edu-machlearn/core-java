@@ -2,8 +2,17 @@ package com.biswa.controllstatement;
 
 public class SwitchTest {
 	public static void main(String[] args) {
-		switch ("ssss") {
+		switch ("Abc") {
 		case "Abc": {
+
+			switch (1) {
+			case 1:
+				System.out.println("1");
+				break;
+			case 2:
+				System.out.println("2");
+				break;
+			}
 			System.out.println("1");
 			break;
 		}

@@ -8,6 +8,7 @@ public class LogicalOperatorTest {
 		System.out.println((5 < 2) || (5 != 2));
 		System.out.println((5 < 2));
 		System.out.println(!(5 == 2));
+		System.out.println(~5);//Bit wise Not
 	}
 
 }

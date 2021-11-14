@@ -14,6 +14,7 @@ class Child extends Parent {
 
 	void show(int a) {
 		System.out.println("Child show()." + a);
+		System.out.println();
 	}
 }
 
@@ -26,3 +27,4 @@ public class MethodOverridingTest {
 	}
 
 }
+

@@ -4,7 +4,6 @@ abstract class Super {
 	void showSuper() {
 		System.out.println("Hi!");
 	}
-
 	abstract void show();
 }
 
@@ -30,7 +29,6 @@ public class AbstractClassTest extends Super {
  * contain any body.
  * 
  * Example: - void show(){//Complete method //Body } - abstract void show();//
- * This is abstract method
- * If an abstract class contains any abstract method then we need to 
- * override it in its sub class
+ * This is abstract method If an abstract class contains any abstract method
+ * then we need to override it in its sub class
  */
